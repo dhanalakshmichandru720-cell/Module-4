@@ -10,9 +10,16 @@ To write a Python program that merges **two dictionaries** and combines their ke
 3. Call the `merge()` function and print the merged dictionary.
 
 ## 🧾 Program
-
-Add code here
+```
+a=eval(input())
+b=eval(input())
+c=a.copy()
+c.update(b)
+print(c)
+```
 
 ## Output
+<img width="904" height="274" alt="image" src="https://github.com/user-attachments/assets/d2df3b8b-0eab-402a-b29e-bcd3d61df227" />
+
 
 ## Result
